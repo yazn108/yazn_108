@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+
+*{text-align: center;
+   font-family: 'Permanent Marker', cursive;}
+
+body{
+ background-image: url('https://www2.0zz0.com/2022/02/15/00/784907367.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% 718px ;}
+ 
+a{text-decoration:none;}
+
+h3{color: green;
+    font-family: 'Roboto', sans-serif;}
+
+.img-1{background-color: ;
+       width: 105px;
+        height: 105px;
+         border: red 4px none;
+           border-radius: 50%;}
+.img-2{background-color: ;
+       width: 35px;
+        height: 35px;
+         border:  none;
+          border-radius: 50%;
+           position: relative;
+            right: 120px;
+             top: 3px;}
+.img-3{background-color: ;
+        width: 35px;
+         height: 35px;
+          border:  none;
+           border-radius: 50%;
+            position: relative;
+             right: 105px;
+              top: 3px;}
+.img-4{background-color: ;
+        width: 35px;
+         height: 35px;
+          border:  none;
+           border-radius: 50%;
+            position: relative;
+             right: 117px;
+              top: 3px;}
+.img-6{background-color: ;
+        width: 35px;
+         height: 35px;
+          border:  none;
+           border-radius: 50%;
+            position: relative;
+             right: 108px;
+              top: 3px;}
+.img-7{background-color: ;
+        width: 35px;
+         height: 35px;
+          border:  none;
+           border-radius: 50%;
+            position: relative;
+             right: 117px;
+              top: 3px;}
+input[type="submit"]
+{background-color:black ;
+  color: #fff;
+   border: none;
+    border-radius: 25px;		
+     position: relative;
+      bottom: 10px;
+       right: 20px;
+        font-size: 16px;
+         letter-spacing: 1px;}
+input[type="button"]
+{font-family: 'Amiri', serif;
+  background-color: black;
+   color: white;
+    border: none;
+     border-radius: 30px;		
+      font-size: 16px;
+       letter-spacing: 1px;}
+
+
